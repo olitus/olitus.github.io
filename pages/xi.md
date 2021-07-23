@@ -8,12 +8,17 @@ permalink: /xi
 
 > ξ - universal set
 
+## Anime
+- https://twist.moe
+
 ## Open Source
 - https://opensource.guide
+- https://oss.capital
 
 ## Peer to Peer
 - [Beaker Browser](https://beakerbrowser.com)
 - [Hypercore Protocol](https://hypercore-protocol.org/#hypercore)
+- [Mastodon](https://joinmastodon.org)
 
 ## Alan Kay
 - [YouTube: The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
