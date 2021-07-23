@@ -12,3 +12,4 @@ permalink: /people
 - [Sindre Sorhus](https://sindresorhus.com/about)
 - [Video Cortex](http://videocortex.io)
 - [Lukas Atkinson](https://lukasatkinson.de)
+- [Eli](http://www.barzilay.org)
