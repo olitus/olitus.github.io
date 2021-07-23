@@ -4,6 +4,7 @@ url: https://oreksu.com
 
 header_pages:
   - pages/index.md
+  - pages/people.md
   - pages/delta.md
   - pages/lambda.md
   - pages/xi.md
