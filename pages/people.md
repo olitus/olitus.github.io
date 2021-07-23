@@ -8,3 +8,4 @@ permalink: /people
 
 - [kipply](https://carolchen.me)
 - [lcamtuf](https://lcamtuf.coredump.cx)
+- [Jeff Atwood](https://blog.codinghorror.com/about-me/)
