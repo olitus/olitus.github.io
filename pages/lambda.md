@@ -13,6 +13,9 @@ permalink: /lambda
 - [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 - [Lambda the Ultimate](http://lambda-the-ultimate.org)
 
+## Cources
+- [Principles of Programming Languages](https://felleisen.org/matthias/4400-s20/index.html) by Matthias Felleisen
+
 ## Talks
 - [YouTube: Learning F# by Designing Your Own Language](https://www.youtube.com/watch?v=34C_7halqGw) by Alexey Golub #f-sharp #parser
 
