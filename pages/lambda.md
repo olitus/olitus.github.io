@@ -13,4 +13,8 @@ permalink: /lambda
 - [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 
 ## Talks
-- [Learning F# by Designing Your Own Language](https://www.youtube.com/watch?v=34C_7halqGw) by Alexey Golub #f-sharp #parser
+- [YouTube: Learning F# by Designing Your Own Language](https://www.youtube.com/watch?v=34C_7halqGw) by Alexey Golub #f-sharp #parser
+
+
+## C
+- [YouTube: "C" Programming Language](https://www.youtube.com/watch?v=de2Hsvxaf8M) by Brian Kernighan
