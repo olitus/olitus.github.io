@@ -12,7 +12,8 @@ permalink: /xi
 - https://opensource.guide
 
 ## Peer to Peer
-- [Beaker Browser](https://beakerbrowser.com_
+- [Beaker Browser](https://beakerbrowser.com)
+- [Hypercore Protocol](https://hypercore-protocol.org/#hypercore)
 
 ## Alan Kay
 - [YouTube: The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
