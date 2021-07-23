@@ -1,10 +1,10 @@
-title: '$o1eks@litus.io ~ $'
+title: 'O|eks L:tus'
 description: "O|eks L:tus"
 url: https://oreksu.com
 
 header_pages:
   - pages/index.md
-  - pages/learn.md
+  - pages/delta.md
   - pages/lambda.md
   - pages/research.md
   - pages/setup.md
