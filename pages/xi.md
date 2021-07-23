@@ -1,3 +1,9 @@
+---
+title: ξ
+layout: page
+permalink: /xi
+---
+
 # Cool random things
 
 > ξ - universal set
