@@ -34,3 +34,4 @@ permalink: /lambda
 - [Futhark](https://futhark-lang.org/index.html) #array #parallel #functional
 - [Clio](https://github.com/clio-lang/clio) #functional #distributed #js
 - [Ceylon](https://ceylon-lang.org)
+- [Gluon](https://gluon-lang.org)
