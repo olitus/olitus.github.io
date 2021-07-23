@@ -1,3 +1,9 @@
+---
+title: /setup
+layout: page
+permalink: /setup
+---
+
 # o1-Mac Guide
 
 ## Initial Setup
