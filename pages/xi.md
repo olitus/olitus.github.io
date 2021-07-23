@@ -20,6 +20,7 @@ permalink: /xi
 - [Hypercore Protocol](https://hypercore-protocol.org/#hypercore)
 - [Mastodon](https://joinmastodon.org)
 - [Dino Chat](https://dino.im)
+- [Odysee](https://odysee.com)
 
 ## Alan Kay
 - [YouTube: The computer revolution hasnt happened yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
