@@ -6,6 +6,7 @@ header_pages:
   - pages/index.md
   - pages/delta.md
   - pages/lambda.md
+  - pages/xi.md
   - pages/research.md
   - pages/setup.md
   - pages/links.md
