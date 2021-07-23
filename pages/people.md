@@ -11,3 +11,4 @@ permalink: /people
 - [Jeff Atwood](https://blog.codinghorror.com/about-me/)
 - [Sindre Sorhus](https://sindresorhus.com/about)
 - [Video Cortex](http://videocortex.io)
+- [Lukas Atkinson](https://lukasatkinson.de)
