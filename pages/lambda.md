@@ -6,6 +6,8 @@ permalink: /lambda
 
 # All things programming language
 
+> λ - anonymous function 
+
 ## Research
 - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 - [Syntac Across Languages](http://rigaux.org/language-study/syntax-across-languages)
