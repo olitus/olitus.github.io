@@ -7,3 +7,4 @@ permalink: /people
 # People
 
 - [kipply](https://carolchen.me)
+- [lcamtuf](https://lcamtuf.coredump.cx)
