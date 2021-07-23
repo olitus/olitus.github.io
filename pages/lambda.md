@@ -19,6 +19,14 @@ permalink: /lambda
 ### Type System
 - [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
 - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+- [Query-based compiler architectures](https://ollef.github.io/blog/posts/query-based-compilers.html)
+- [How JIT Compilers are Implemented and Fast](https://carolchen.me/blog/technical/jits-impls/)
+- [A Deep Introduction to JIT Compilers](https://carolchen.me/blog/technical/jits-intro/)
 
 ## C
 - [YouTube: "C" Programming Language](https://www.youtube.com/watch?v=de2Hsvxaf8M) by Brian Kernighan
+
+## Cool Programming Languages
+- [Futhark](https://futhark-lang.org/index.html) #array #parallel #functional
+- [Clio](https://github.com/clio-lang/clio) #functional #distributed #js
+- [Ceylon](https://ceylon-lang.org)
