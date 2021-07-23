@@ -4,9 +4,9 @@ layout: page
 permalink: /delta
 ---
 
-> δ - small change in knowledge
-
 # Learn bit by bit
+
+> δ - small change
 
 ## General Programming
 - [How To Design Programs](https://htdp.org/)
