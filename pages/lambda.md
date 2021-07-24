@@ -15,6 +15,9 @@ permalink: /lambda
 - [Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages)
 - [Lambda the Ultimate](http://lambda-the-ultimate.org)
 
+## Projects
+- [Influence Graph](https://www.freecodecamp.org/news/how-to-visualize-the-programming-language-influence-graph-7f1b765b44d1/)
+
 ## Cources
 - [Principles of Programming Languages](https://felleisen.org/matthias/4400-s20/index.html) by Matthias Felleisen
 
