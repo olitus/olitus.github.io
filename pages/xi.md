@@ -28,3 +28,6 @@ permalink: /xi
 ## Tools
 - [Share Terminal](https://asciinema.org)
 - [Share Snippets](https://carbon.now.sh/pu4Uyjlfwo682gqmg3xA)
+
+## Ukranian
+- [Slovotvir](https://slovotvir.org.ua/)
