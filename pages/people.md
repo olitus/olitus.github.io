@@ -12,5 +12,8 @@ permalink: /people
 - [Sindre Sorhus](https://sindresorhus.com/about)
 - [Video Cortex](http://videocortex.io)
 - [Lukas Atkinson](https://lukasatkinson.de)
-- [Eli](http://www.barzilay.org)
-- [Matthias](https://felleisen.org/matthias/)
+- [Eli](http://www.barzilay.org) #pl
+- [Matthias](https://felleisen.org/matthias/) #pl
+- [Jamner](https://jamner.net/) #pl
+- [Leif Andersen](http://leifandersen.net/) #pl
+- [Julia](https://julbinb.github.io/) #pl
