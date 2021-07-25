@@ -40,3 +40,4 @@ permalink: /lambda
 - [Clio](https://github.com/clio-lang/clio) #functional #distributed #js
 - [Ceylon](https://ceylon-lang.org)
 - [Gluon](https://gluon-lang.org)
+- [Pyret](https://www.pyret.org/index.html)
