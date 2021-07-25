@@ -14,6 +14,7 @@ permalink: /xi
 ## Open Source
 - https://opensource.guide
 - https://oss.capital
+- https://awesomeopensource.com
 
 ## Peer to Peer
 - [Beaker Browser](https://beakerbrowser.com)
