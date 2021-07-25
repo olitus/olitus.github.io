@@ -35,6 +35,9 @@ permalink: /lambda
 ## C
 - [YouTube: "C" Programming Language](https://www.youtube.com/watch?v=de2Hsvxaf8M) by Brian Kernighan
 
+## Scheme
+- [What is cool about scheme?](https://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)
+
 ## Cool Programming Languages
 - [Futhark](https://futhark-lang.org/index.html) #array #parallel #functional
 - [Clio](https://github.com/clio-lang/clio) #functional #distributed #js
