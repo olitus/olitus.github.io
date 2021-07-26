@@ -17,3 +17,4 @@ permalink: /people
 - [Jamner](https://jamner.net/) #pl
 - [Leif Andersen](http://leifandersen.net/) #pl
 - [Julia](https://julbinb.github.io/) #pl
+- [AI guy](https://otoro.net/)
