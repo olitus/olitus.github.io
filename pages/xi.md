@@ -37,6 +37,7 @@ permalink: /xi
 
 ## Blogs
 - https://immunant.com/blog/
+- https://www.mit.edu/~rei/
 
 ## Ukranian
 - [Slovotvir](https://slovotvir.org.ua/)
