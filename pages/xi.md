@@ -35,5 +35,8 @@ permalink: /xi
 - [Netlify](https://www.netlify.com/)
 - [Heroku](https://dashboard.heroku.com/)
 
+## Blogs
+- https://immunant.com/blog/
+
 ## Ukranian
 - [Slovotvir](https://slovotvir.org.ua/)
