@@ -30,5 +30,10 @@ permalink: /xi
 - [Share Terminal](https://asciinema.org)
 - [Share Snippets](https://carbon.now.sh/pu4Uyjlfwo682gqmg3xA)
 
+## Technologies
+- [Vercel](https://vercel.com/)
+- [Netlify](https://www.netlify.com/)
+- [Heroku](https://dashboard.heroku.com/)
+
 ## Ukranian
 - [Slovotvir](https://slovotvir.org.ua/)
