@@ -38,6 +38,7 @@ permalink: /xi
 ## Blogs
 - https://immunant.com/blog/
 - https://www.mit.edu/~rei/
+- https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 
 ## Ukranian
 - [Slovotvir](https://slovotvir.org.ua/)
