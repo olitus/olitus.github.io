@@ -41,3 +41,6 @@ permalink: /xi
 
 ## Ukranian
 - [Slovotvir](https://slovotvir.org.ua/)
+
+## Random
+- [What devs use?](https://uses.tech/)
